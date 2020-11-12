@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 ## Self-introduction
 I'm student in NIT-IbarakiCollege.  
+I usually develop in CLI with neovim.
+
+## General
+![age](https://img.shields.io/badge/Age-17-critical?style=for-the-badge)
+![School](https://img.shields.io/badge/School-NITIbarakiCollege-critical?style=for-the-badge)
+![since begin coding](https://img.shields.io/badge/SinceBeginCoding-1.5year-critical?style=for-the-badge)
 
 ## Skills
 ### Languages
