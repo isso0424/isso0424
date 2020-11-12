@@ -37,6 +37,17 @@ I'm student in NIT-IbarakiCollege.
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-orange?style=for-the-badge)
 
+### Mobile
+![AndroidNative](https://img.shields.io/badge/-AndroidNative-yellow?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/-Flutter-yellow?style=for-the-badge)
+![ReactNative](https://img.shields.io/badge/-ReactNative-yellow?style=for-the-badge)
+
+## Religion
+![Editor](https://img.shields.io/badge/Editor-NeoVim-success?style=for-the-badge)
+![OS](https://img.shields.io/badge/OS-ArchLinux-success?style=for-the-badge)
+![Typing](https://img.shields.io/badge/Typing-Static-success?style=for-the-badge)
+![Indent](https://img.shields.io/badge/Indent-2Space-success?style=for-the-badge)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=isso0424&count_private=true&show_icons=true" />
 </a>
