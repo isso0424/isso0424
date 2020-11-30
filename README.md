@@ -21,7 +21,7 @@ I usually write code with neovim in CLI.
 
 ## General
 ![age](https://img.shields.io/badge/Age-17-critical?style=for-the-badge)
-![School](https://img.shields.io/badge/School-NITIbarakiCollege-critical?style=for-the-badge)
+![School](https://img.shields.io/badge/School-NIT_Ibaraki_College-critical?style=for-the-badge)
 ![have written code for](https://img.shields.io/badge/Have_written_code_for-1.5_years-critical?style=for-the-badge)
 
 ## Skills
