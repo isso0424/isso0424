@@ -20,9 +20,9 @@ I'm a student at NIT-IbarakiCollege.
 I usually write code with neovim in CLI.
 
 ## General
-![age](https://img.shields.io/badge/Age-17-critical?style=for-the-badge)
+![age](https://img.shields.io/badge/Age-18-critical?style=for-the-badge)
 ![School](https://img.shields.io/badge/School-NIT_Ibaraki_College-critical?style=for-the-badge)
-![have written code for](https://img.shields.io/badge/Have_written_code_for-1.5_years-critical?style=for-the-badge)
+![have written code for](https://img.shields.io/badge/Have_written_code_for-2_years-critical?style=for-the-badge)
 
 ## Skills
 ### Languages
@@ -32,9 +32,13 @@ I usually write code with neovim in CLI.
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-blue?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-blue?style=for-the-badge)
+![Rust](https://img.shields.io/badge/-Rust-blue?style=for-the-badge)
 
 ### Frontend
 ![React.js](https://img.shields.io/badge/-React.js-green?style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-green?style=for-the-badge)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-green?style=for-the-badge)
 ![Electron](https://img.shields.io/badge/-Electron-green?style=for-the-badge)
 
 ### Backend
@@ -42,11 +46,15 @@ I usually write code with neovim in CLI.
 ![Node.js](https://img.shields.io/badge/-Node.js-orange?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-orange?style=for-the-badge)
+![Gorilla](https://img.shields.io/badge/-Gorilla-orange?style=for-the-badge)
 
 ### Mobile
 ![AndroidNative](https://img.shields.io/badge/-AndroidNative-yellow?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/-Flutter-yellow?style=for-the-badge)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-yellow?style=for-the-badge)
+
+### Other
+![Markdown](https://img.shields.io/badge/-Markdown-lightgrey?style=for-the-badge)
 
 ## Religion
 ![Editor](https://img.shields.io/badge/Editor-NeoVim-success?style=for-the-badge)
