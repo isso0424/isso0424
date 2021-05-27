@@ -33,6 +33,13 @@ I usually write code with neovim in CLI.
 ![GraphQL](https://img.shields.io/badge/-GraphQL-blue?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-blue?style=for-the-badge)
 ![Rust](https://img.shields.io/badge/-Rust-blue?style=for-the-badge)
+![Haskell](https://img.shields.io/badge/-Haskell-blue?style=for-the-badge)
+![Scala](https://img.shields.io/badge/-Scala-blue?style=for-the-badge)
+![Erlang](https://img.shields.io/badge/-Erlang-blue?style=for-the-badge)
+![OCaml](https://img.shields.io/badge/-OCaml-blue?style=for-the-badge)
+![Elm](https://img.shields.io/badge/-Elm-blue?style=for-the-badge)
+![F#](https://img.shields.io/badge/-F#-blue?style=for-the-badge)
+![Elixir](https://img.shields.io/badge/-Elixir-blue?style=for-the-badge)
 
 ### Frontend
 ![React.js](https://img.shields.io/badge/-React.js-green?style=for-the-badge)
