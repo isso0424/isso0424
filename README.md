@@ -66,4 +66,4 @@ I usually write code with neovim in CLI.
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=isso0424&count_private=true&show_icons=true" />
 </a>
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=isso0424&row=1&column=6" />
-<figure><embed src="https://wakatime.com/share/@ae325e66-6d46-4485-9283-8d7f2e79250d/6bc6eacb-0082-4e74-b7ab-348591232777.svg"></embed></figure>
+<img src="https://wakatime.com/share/@ae325e66-6d46-4485-9283-8d7f2e79250d/6bc6eacb-0082-4e74-b7ab-348591232777.svg"></img>
