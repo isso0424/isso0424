@@ -61,8 +61,9 @@ I usually write code with neovim in CLI.
 ![Indent](https://img.shields.io/badge/Indent-2Space-success?style=for-the-badge)
 
 ## Data
+### GitHub
 ![github status](https://github-readme-stats.vercel.app/api?username=isso0424&count_private=true&show_icons=true)
 ![github trophies](https://github-profile-trophy.vercel.app/?username=isso0424&row=1&column=6)
 
-## wakatime log
+### wakatime log
 ![wakatime log](https://wakatime.com/share/@ae325e66-6d46-4485-9283-8d7f2e79250d/59fe6604-07c7-406b-9e5f-51da2ac78878.svg)
