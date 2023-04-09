@@ -18,9 +18,9 @@ I'm a student at NIT-IbarakiCollege.
 I usually write code with neovim in CLI.
 
 ## General
-![age](https://img.shields.io/badge/Age-18-critical?style=for-the-badge)
+![age](https://img.shields.io/badge/Age-19-critical?style=for-the-badge)
 ![School](https://img.shields.io/badge/School-NIT_Ibaraki_College-critical?style=for-the-badge)
-![have written code for](https://img.shields.io/badge/Have_written_code_for-2_years-critical?style=for-the-badge)
+![have written code for](https://img.shields.io/badge/Have_written_code_for-3_years-critical?style=for-the-badge)
 
 ## Skills
 ### Languages
@@ -65,5 +65,3 @@ I usually write code with neovim in CLI.
 ![github status](https://github-readme-stats.vercel.app/api?username=isso0424&count_private=true&show_icons=true)
 ![github trophies](https://github-profile-trophy.vercel.app/?username=isso0424&row=1&column=6)
 
-### wakatime log
-![wakatime log](https://wakatime.com/share/@ae325e66-6d46-4485-9283-8d7f2e79250d/59fe6604-07c7-406b-9e5f-51da2ac78878.svg)
